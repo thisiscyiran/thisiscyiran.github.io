@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Farzad Dianatkhah</title>
+    <link>https://thisiscyiran.github.io/posts/</link>
+    <description>Recent content in Posts on Farzad Dianatkhah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2022-present, Farzad Dianatkhah. | </copyright>
+    <lastBuildDate>Fri, 08 Jul 2022 01:04:52 +0430</lastBuildDate><atom:link href="https://thisiscyiran.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://thisiscyiran.github.io/posts/post-1/</link>
+      <pubDate>Fri, 08 Jul 2022 01:04:52 +0430</pubDate>
+      
+      <guid>https://thisiscyiran.github.io/posts/post-1/</guid>
+      <description>این اولین پستی خواهد بود که من در وبلاگم ثبت میکنم الان تقریبا ساعت دو و سی دقیقه ی شب.</description>
+    </item>
+    
+  </channel>
+</rss>

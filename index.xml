@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farzad Dianatkhah</title>
+    <link>https://thisiscyiran.github.io/</link>
+    <description>Recent content on Farzad Dianatkhah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright 2022-present, Farzad Dianatkhah. | </copyright>
+    <lastBuildDate>Fri, 08 Jul 2022 01:04:52 +0430</lastBuildDate><atom:link href="https://thisiscyiran.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://thisiscyiran.github.io/posts/post-1/</link>
+      <pubDate>Fri, 08 Jul 2022 01:04:52 +0430</pubDate>
+      
+      <guid>https://thisiscyiran.github.io/posts/post-1/</guid>
+      <description>این اولین پستی خواهد بود که من در وبلاگم ثبت میکنم الان تقریبا ساعت دو و سی دقیقه ی شب.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://thisiscyiran.github.io/about/</link>
+      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      
+      <guid>https://thisiscyiran.github.io/about/</guid>
+      <description>من متولد سال 1379 خورشیدی-هجری هستم و در شهر ماهشهر بزرگ شدم, ماهشهر یک شهر بندری که در نزدیکی شرکت پتروشیمی بندر امام واقع شده است و مردم این شهر اکثرا برای این شرکت کار میکنند.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thisiscyiran.github.io/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thisiscyiran.github.io/reading/</guid>
+      <description>در حال حاضر در حال خواندن Python crash Course , نوشته شده توسط Eric Matthes اخیرا خوانده شده است Rich Dad Poor Dad , نوشته شده توسط Robert Kiyosaki </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://thisiscyiran.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thisiscyiran.github.io/contact/</guid>
+      <description>اگر دوست داشتید در رابطه با این بلاگ یا چیزی که اینجا مشاهده کردید با من صحبت کنید میتواید من را در Twitter پیدا کنید.</description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://thisiscyiran.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thisiscyiran.github.io/projects/</guid>
+      <description>در حال حاضر این صفحه خالی می باشد.</description>
+    </item>
+    
+  </channel>
+</rss>
